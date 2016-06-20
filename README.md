@@ -1,2 +1,5 @@
 # hello-world
-first lessons
+first lesson
+
+I would like to discover myself.
+I love coding.
